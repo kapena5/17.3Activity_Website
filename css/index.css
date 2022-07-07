@@ -1,0 +1,48 @@
+.navOption {
+    display: inline-block;
+    padding: 20px 50px 20px 50px;
+    color: aliceblue;
+    text
+}
+
+nav {
+    background-color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center;
+}
+
+.sideBar {
+    width: 29%;
+    float: left;
+    text-align: center;
+}
+
+.pet {
+    background-color: chartreuse;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.petStats {
+    background-color: coral;
+}
+
+.petInfo {
+    background-color: brown;
+    width: 70%;
+    float: left;
+}
+
+html {
+    background-color: beige;
+}
+
+.sidePetImage {
+    width: inherit;
+    padding-top: 100px;
+    border-radius: 50px;
+}
+
+p {
+    text-align: center;
+}
